@@ -1,0 +1,16 @@
+[22-May-2019 14:47:16 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection timed out in /var/www/html/SPE-WordPress/WP-Eval-oAgency-Maxime-Mauny/wp/wp-includes/wp-db.php on line 1612
+[22-May-2019 14:47:49 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection timed out in /var/www/html/SPE-WordPress/WP-Eval-oAgency-Maxime-Mauny/wp/wp-includes/wp-db.php on line 1612
+[25-May-2019 07:58:23 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /var/www/html/SPE-WordPress/WP-Eval-oAgency-Maxime-Mauny/content/themes/oagency/functions.php on line 29
+[25-May-2019 08:00:21 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /var/www/html/SPE-WordPress/WP-Eval-oAgency-Maxime-Mauny/content/themes/oagency/functions.php on line 31
+[25-May-2019 08:00:24 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /var/www/html/SPE-WordPress/WP-Eval-oAgency-Maxime-Mauny/content/themes/oagency/functions.php on line 31
+[25-May-2019 14:24:23 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /var/www/html/SPE-WordPress/WP-Eval-oAgency-Maxime-Mauny/content/themes/oagency/template-parts/menu/main.php on line 22
+[25-May-2019 15:03:30 UTC] PHP Notice:  Trying to get property 'post_name' of non-object in /var/www/html/SPE-WordPress/WP-Eval-oAgency-Maxime-Mauny/wp/wp-includes/post.php on line 5981
+[25-May-2019 15:03:30 UTC] PHP Notice:  Trying to get property 'post_status' of non-object in /var/www/html/SPE-WordPress/WP-Eval-oAgency-Maxime-Mauny/wp/wp-includes/post.php on line 5986
+[25-May-2019 15:03:30 UTC] PHP Notice:  Trying to get property 'post_date' of non-object in /var/www/html/SPE-WordPress/WP-Eval-oAgency-Maxime-Mauny/wp/wp-includes/post.php on line 6024
+[25-May-2019 15:03:30 UTC] PHP Notice:  Trying to get property 'post_status' of non-object in /var/www/html/SPE-WordPress/WP-Eval-oAgency-Maxime-Mauny/wp/wp-includes/post.php on line 6030
+[25-May-2019 15:03:30 UTC] PHP Notice:  Trying to get property 'post_status' of non-object in /var/www/html/SPE-WordPress/WP-Eval-oAgency-Maxime-Mauny/wp/wp-includes/class-wp-customize-manager.php on line 2504
+[25-May-2019 15:03:30 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /var/www/html/SPE-WordPress/WP-Eval-oAgency-Maxime-Mauny/wp/wp-includes/class-wp-customize-manager.php on line 2510
+[25-May-2019 15:03:35 UTC] PHP Notice:  Trying to get property 'post_status' of non-object in /var/www/html/SPE-WordPress/WP-Eval-oAgency-Maxime-Mauny/wp/wp-includes/class-wp-customize-manager.php on line 2504
+[25-May-2019 15:03:35 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /var/www/html/SPE-WordPress/WP-Eval-oAgency-Maxime-Mauny/wp/wp-includes/class-wp-customize-manager.php on line 2510
+[25-May-2019 15:03:37 UTC] PHP Notice:  Trying to get property 'post_status' of non-object in /var/www/html/SPE-WordPress/WP-Eval-oAgency-Maxime-Mauny/wp/wp-includes/class-wp-customize-manager.php on line 2504
+[25-May-2019 15:03:37 UTC] PHP Notice:  Trying to get property 'ID' of non-object in /var/www/html/SPE-WordPress/WP-Eval-oAgency-Maxime-Mauny/wp/wp-includes/class-wp-customize-manager.php on line 2510
